@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="512232d2-c9fd-4678-8796-51996bbb9a5f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/src/main/java/com/poly/fshark_be/FSharkBeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/src/main/java/com/poly/fshark_be/FSharkBeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/src/main/java/com/poly/fshark_be/ServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/src/main/java/com/poly/fshark_be/ServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEFShark/FShark_BE/src/test/java/com/poly/fshark_be/FSharkBeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BEFShark/src/test/java/com/poly/fshark_be/FSharkBeApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thuann17&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thuysvy/FSharkSocial.git&quot;,
+    &quot;accountId&quot;: &quot;4a83cc48-9afa-44a4-8319-c8daa38577ed&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2m3UpXcJmMMu0F3n5O5vmVIgyzM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FSharkBeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/DATN/FSharkSocial/BEFShark/src/main/java/com/poly/fshark_be/DAO&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DATN\FSharkSocial" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.poly.fshark_be.DAO" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FSharkBeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="FShark_BE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.poly.fshark_be.FSharkBeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="512232d2-c9fd-4678-8796-51996bbb9a5f" name="Changes" comment="" />
+      <created>1726304938477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726304938477</updated>
+      <workItem from="1726304938871" duration="421000" />
+      <workItem from="1726375864251" duration="1383000" />
+      <workItem from="1726377825040" duration="1754000" />
+      <workItem from="1726383935947" duration="3687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
