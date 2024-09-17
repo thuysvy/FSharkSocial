@@ -56,7 +56,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.FSharkBeApplication.executor": "Run",
-    "git-widget-placeholder": "MinhThuan",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/DATN/FSharkSocial/BEFShark/src/main/java/com/poly/fshark_be/DAO",
     "node.js.detected.package.eslint": "true",
@@ -115,6 +115,7 @@
       <workItem from="1726377825040" duration="1754000" />
       <workItem from="1726383935947" duration="3687000" />
       <workItem from="1726387732976" duration="9000" />
+      <workItem from="1726552352080" duration="10000" />
     </task>
     <servers />
   </component>
