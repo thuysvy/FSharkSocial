@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/BEFShark/FShark_BE/FShark_BE.iml" filepath="$PROJECT_DIR$/BEFShark/FShark_BE/FShark_BE.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/FSharkSocial.iml" filepath="$PROJECT_DIR$/.idea/FSharkSocial.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/BEFShark/FShark_BE.iml" filepath="$PROJECT_DIR$/BEFShark/FShark_BE.iml" />
+>>>>>>> parent of 50313cd (Revert "Merge branch 'main' into MinhThuan")
+>>>>>>> MinhThuan
     </modules>
   </component>
 </project>
