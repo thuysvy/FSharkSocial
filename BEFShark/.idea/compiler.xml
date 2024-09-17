@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+<<<<<<<< HEAD:BEFShark/.idea/compiler.xml
 <<<<<<<< HEAD:BEFShark/FShark_BE/.idea/compiler.xml
 <<<<<<< HEAD:.idea/compiler.xml
 <<<<<<< HEAD
@@ -12,6 +13,8 @@
 >>>>>>> parent of 50c55a7 (hoàn thành 2 pack DAO và model):BEFShark/FShark_BE/.idea/compiler.xml
 ========
 >>>>>>>> 6297c687149f8afc2162f6c35db149b4f7000a8b:BEFShark/.idea/compiler.xml
+========
+>>>>>>>> parent of 50c55a7 (hoàn thành 2 pack DAO và model):BEFShark/FShark_BE/.idea/compiler.xml
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
