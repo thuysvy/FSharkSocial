@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:.idea/compiler.xml
 <<<<<<< HEAD
 =======
@@ -10,6 +11,8 @@
 >>>>>>> 50c55a7bfcf11af18d50101e48527c90d7408566
 =======
 >>>>>>> parent of 50c55a7 (hoàn thành 2 pack DAO và model):BEFShark/FShark_BE/.idea/compiler.xml
+=======
+>>>>>>> parent of 50c55a7 (hoàn thành 2 pack DAO và model)
 =======
 >>>>>>> parent of 50c55a7 (hoàn thành 2 pack DAO và model)
       <profile name="Maven default annotation processors profile" enabled="true">
