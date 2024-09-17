@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="FShark_BE:war">
+    <output-path>$PROJECT_DIR$/BEFShark/FShark_BE/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FShark_BE</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FShark_BE-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FShark_BE:war exploded" />
+    </root>
+  </artifact>
+</component>

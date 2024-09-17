@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FSharkSocial.iml" filepath="$PROJECT_DIR$/.idea/FSharkSocial.iml" />
-<<<<<<< HEAD
-=======
-      <module fileurl="file://$PROJECT_DIR$/BEFShark/FShark_BE.iml" filepath="$PROJECT_DIR$/BEFShark/FShark_BE.iml" />
->>>>>>> 50c55a7bfcf11af18d50101e48527c90d7408566
+      <module fileurl="file://$PROJECT_DIR$/BEFShark/FShark_BE/FShark_BE.iml" filepath="$PROJECT_DIR$/BEFShark/FShark_BE/FShark_BE.iml" />
     </modules>
   </component>
 </project>
